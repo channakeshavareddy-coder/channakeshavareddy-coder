@@ -15,6 +15,6 @@
 💻 **Tech:** Java 17, Jakarta EE, Java Servlets, JSP, HTML5, CSS3, JavaScript, Apache Tomcat 11, MySQL, Apache Maven
 🔗 **Link:** https://github.com/channakeshavareddy-coder/AdaptiveQuizEngine
 ## Let's Connect
-💼 Actively looking for software engineering internships and full-time opportunities. Feel free to reach out!
-**LinkedIn:** Channakeshavareddy G N
-**Email:** cchannakeshava117@gmail.com
+💼 Actively looking for software engineering internships and full-time opportunities. Feel free to reach out!  
+**LinkedIn:** Channakeshavareddy G N  
+**Email:** cchannakeshava117@gmail.com  
