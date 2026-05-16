@@ -16,5 +16,5 @@
 🔗 **Link:** https://github.com/channakeshavareddy-coder/AdaptiveQuizEngine  
 ## Let's Connect
 💼 Actively looking for software engineering internships and full-time opportunities. Feel free to reach out!  
-**LinkedIn:** Channakeshavareddy G N  
+**LinkedIn:** [Channakeshavareddy G N](https://www.linkedin.com/in/channakeshavareddy-g-n/)    
 **Email:** cchannakeshava117@gmail.com  
