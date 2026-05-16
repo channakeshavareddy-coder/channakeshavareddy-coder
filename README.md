@@ -1,5 +1,3 @@
-:
-
 ## 👋 Hi, I'm Channakeshavareddy G N
 ## Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast
 ## About Me
