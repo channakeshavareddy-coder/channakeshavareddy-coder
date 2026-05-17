@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Channakeshavareddy G N
 ## Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast
 ## About Me
-🎓 MCA Final Year Student | Expected Graduation: 2027 — passionate about backend systems and full-stack development. Built and deployed AdaptiveQuizEngine, a Full Stack Java Web Application with CAT algorithm on AWS Elastic Beanstalk. 🌱 Learning Go (Gin, GORM), Linux and diving deeper into AWS cloud architecture.
+🎓 MCA Final Year Student | Expected Graduation: 2027 — passionate about backend systems and full-stack development. Built and deployed AdaptiveQuizEngine, a Full Stack Java Web Application with CAT algorithm on AWS Elastic Beanstalk. 🌱 Learning Go, Linux Bash and diving deeper into AWS cloud architecture.
 ## Tech Stack
-**Backend:** Java (8, 11, 17), Jakarta EE, Java Spring Ecosystem, Go (Gin, GORM)  
+**Backend:** Java (8, 11, 17), Jakarta EE, Java Spring Ecosystem  
 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular  
 **Cloud and DevOps**: AWS (EC2, S3, IAM, Elastic Beanstalk), Linux, Bash  
 **Database:** MySQL, PostgreSQL  
