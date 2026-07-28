@@ -1,34 +1,47 @@
-<h1 align="center">Hi 👋, I'm Channakeshavareddy G N</h1>  
-<h3 align="center">🎓 MCA Student | Python Full Stack Developer</h3>  
+<h1 align="center">Hi 👋, I'm Channakeshavareddy G N</h1>
+<h3 align="center">🎓 MCA Graduate | Java Full Stack Developer | Exploring Machine Learning with Python</h3>
 
 ## 👨‍💻 About Me
-🎓 I am currently pursuing Master of Computer Applications (MCA), while building my expertise in Python Full Stack Development.  
 
-💻 My technical skills include Python, Django, Django REST Framework (DRF), ReactJS, PostgreSQL, HTML5, CSS3, and JavaScript.  
+🎓 I am an MCA graduate passionate about building modern web and Android applications using Java technologies and continuously improving my software engineering skills.  
 
-🌱 I am expanding my knowledge of Linux (Ubuntu), Bash scripting for automation, Docker for containerization, Git, and GitHub — while strengthening my problem-solving skills through Data Structures and Algorithms.  
+💻 My core expertise includes Java, Spring Framework, Spring Boot, React.js, PostgreSQL, REST APIs, and modern backend development practices.  
 
-💡 I enjoy building efficient software solutions and enhancing my development skills through hands-on projects and continuous learning. I am currently seeking internship opportunities where I can contribute, learn from experienced professionals, and grow as a Python Full Stack Developer.  
+🌱 I am strengthening my knowledge of Docker, Linux (Ubuntu), Bash scripting, Git, and GitHub while focusing on writing clean, scalable, and maintainable software solutions.  
 
-🤝 Let's connect to exchange ideas, collaborate on innovative projects, and grow together in the tech community.  
+🐍 Alongside my Java development journey, I am expanding my Python skills and exploring Machine Learning concepts to understand how intelligent applications are built.  
 
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**Frontend:** HTML5, CSS3, React.js  
-**Backend:** Django, Django REST Framework (DRF), Django ORM  
-**Database:** PostgreSQL  
-**Tools:** Git, GitHub, VS Code, pgAdmin  
-**Operating System:** Linux (Ubuntu)  
-**Shell & Scripting:** Bash  
+📱 I am interested in building efficient Android Web applications using modern technologies and improving my problem-solving abilities through Data Structures and Algorithms.  
 
-## What I'm Working On
-- Building full-stack web applications while improving problem-solving skills through HackerRank and LeetCode.  
+💡 I believe in continuous learning, hands-on development, and creating meaningful software solutions that solve real-world problems.
+
+## Tech Stack:
+**Languages:** Java, Python, JavaScript, SQL
+**Backend:** Spring Framework, Spring Boot, REST APIs, Hibernate, JPA
+**Frontend:** React.js, JavaScript, CSS3, HTML5
+**Database:** PostgreSQL (RDBMS)
+**DevOps & Tools:** Docker, Git, GitHub
+**Operating System:** Linux (Ubuntu)
+**Shell & Scripting:** Bash
+**Machine Learning (Learning):** NumPy, Pandas, Scikit-learn
+
+## 🚀 What I'm Working On
+Building full-stack applications with React.js, PostgreSQL, and backend technologies while improving API development, architecture, and exploring Python fundamentals.
 
 ## 🎯 Goals
-- Dedicated to continuous learning, building impactful projects, mastering modern technologies, and growing into a skilled software developer who creates meaningful solutions.  
+
+- Become a skilled Java Full Stack Developer.
+- Build scalable enterprise-level applications.
+- Strengthen my knowledge of Machine Learning and intelligent systems.
+- Continuously learn modern technologies and contribute to impactful projects.
+
+---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/channakeshava-rgn  
-- 📧 Email: [channakeshava.rgn@gmail.com](mailto:channakeshava.rgn@gmail.com)  
 
-⭐ **Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.**
+- 💼 LinkedIn: https://linkedin.com/in/channakeshava-rgn
+- 📧 Email: channakeshava.rgn@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
