@@ -28,7 +28,7 @@
 - Dedicated to continuous learning, building impactful projects, mastering modern technologies, and growing into a skilled software developer who creates meaningful solutions.  
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/g-n-channakeshavareddy  
-- 📧 Email: [channakeshavareddy.dev@gmail.com](mailto:channakeshavareddy.dev@gmail.com)  
+- 💼 LinkedIn: https://linkedin.com/in/channakeshava-rgn  
+- 📧 Email: [channakeshava.rgn@gmail.com](mailto:channakeshava.rgn@gmail.com)  
 
 ⭐ **Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.**
