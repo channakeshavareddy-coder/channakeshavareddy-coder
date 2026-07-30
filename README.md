@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am an MCA student passionate about building modern web and Android applications using Java technologies and continuously improving my software engineering skills.  
+🎓 I am an MCA student passionate about building modern web applications using Java technologies and continuously improving my software engineering skills.  
 
 My core expertise includes Java, Spring Framework, Spring Boot, React.js, PostgreSQL, Git, GitHub, REST APIs, and modern backend development practices.  
 
