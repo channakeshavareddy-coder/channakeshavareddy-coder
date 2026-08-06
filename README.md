@@ -25,7 +25,7 @@ I am interested in building efficient Android Web applications using modern tech
 **Shell & Scripting:** Bash  
 **Machine Learning (Learning):** NumPy, Pandas, Scikit-learn  
 
-## 🚀 What I'm Working On
+## What I'm Working On
 Building modern full-stack applications with Java, Spring Boot, React.js, and PostgreSQL while continuously exploring Machine Learning with Python.
 
 ## 🎯 Goals
