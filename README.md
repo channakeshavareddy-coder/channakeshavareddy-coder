@@ -5,7 +5,7 @@
 
 🎓 I am an MCA student passionate about building modern web applications using Java technologies and continuously improving my software engineering skills.  
 
-My core expertise includes **Java (JDK 8 & 21)** Spring Framework, Spring Boot, React.js, PostgreSQL, Git, GitHub, REST APIs, and modern backend development practices.  
+My core expertise includes **Java (JDK 8 & 21), Spring Framework, Spring Boot, React.js, PostgreSQL, Git, GitHub, REST APIs**, and modern backend development practices.  
 
 I am strengthening my knowledge of Docker, Linux (Ubuntu), Bash scripting, Git, and GitHub while focusing on writing clean, scalable, and maintainable software solutions.  
 
@@ -29,8 +29,7 @@ I am interested in building efficient web applications using modern technologies
 Building scalable full-stack applications using Java, Spring Boot, React.js, and PostgreSQL while exploring Machine Learning with Python.
 
 ## 🎯 Goals
-Keep learning, building, and exploring new technologies to solve real-world challenges.  
-Continuously grow both professionally and personally while contributing to meaningful innovations.  
+Build high-quality software that solves real-world problems while continuously learning modern technologies and contributing to the developer community.
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/channakeshava-rgn  
