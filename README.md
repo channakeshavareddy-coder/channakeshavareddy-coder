@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Channakeshavareddy G N</h1>
 <h3 align="center">🎓 MCA Final Year Student | Java Full Stack Developer | Exploring Machine Learning with Python</h3>
-##👨‍💻 About Me
+
+<h2>👨‍💻 About Me</h2>
 
 🎓 I am an MCA student passionate about building modern web applications using Java technologies and continuously improving my software engineering skills.  
 
