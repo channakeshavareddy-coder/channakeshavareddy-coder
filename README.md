@@ -5,7 +5,7 @@
   
 I'm a final-year MCA student at Garden City University building full-stack web applications with **Java, Python, React.js and PostgreSQL**.  
   
-I'm currently a **Python Full Stack Developer Intern at Dhee Coding Lab**, and I trained in Java Full Stack Development at JSpiders.  
+I'm currently a **Python Full Stack Developer Intern at Dhee Coding Lab**, and I trained in Java Full Stack Development at **JSpiders.**  
   
 I'm sharpening my problem-solving with Data Structures and Algorithms and aiming for **Java / Python Full Stack Developer** roles.  
   
